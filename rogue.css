@@ -1,0 +1,33 @@
+body {
+  background-color:black;
+  color:#557a4c;
+  
+}
+
+#1 {
+  padding: 20%;  
+}
+
+h1,
+h3 {
+  text-align: center;
+}
+
+#wrapper {
+  width: 25%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+table,
+tbody,
+tr,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  width: 30px;
+  height: 20px;
+}
